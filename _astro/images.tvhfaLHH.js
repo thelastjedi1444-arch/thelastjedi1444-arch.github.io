@@ -1,0 +1,1 @@
+var e=null;function t(t){if(!e){if(typeof document<`u`){let t=document.getElementById(`lc-image-map`);if(t&&t.textContent)try{e=JSON.parse(t.textContent)}catch{e={}}else e={}}else return t}return e?.[t]||t}export{t};
