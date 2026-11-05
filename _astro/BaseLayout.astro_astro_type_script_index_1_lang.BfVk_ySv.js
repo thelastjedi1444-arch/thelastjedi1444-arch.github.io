@@ -1,0 +1,1 @@
+import{n as e}from"./analytics.BspHOeUE.js";typeof window<`u`&&(document.readyState===`loading`?document.addEventListener(`DOMContentLoaded`,()=>{e()}):e());
